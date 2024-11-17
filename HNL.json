@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Helvetica Neue Light",
+  "previewText": "San Francisco (SF) is the CarPlay system typeface. Use SF Pro Text for text 19 points or smaller, and SF Pro Display for text 20 points or larger",
+  "main": {
+      "ABCGintoNord-ExtraBold": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/bold/helvetica-neue-bold.ttf?raw=1",
+      "ggsans-Bold": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/bold/helvetica-neue-bold.ttf?raw=1",
+      "ggsans-BoldItalic": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/bold-italic/helvetica-neue-bold-italic.ttf?raw=1",
+      "ggsans-ExtraBold": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/bold/helvetica-neue-bold.ttf?raw=1",
+      "ggsans-ExtraBoldItalic": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/bold-italic/helvetica-neue-bold-italic.ttf?raw=1",
+      "ggsans-Medium": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/medium/helvetica-neue-medium.ttf?raw=1",
+      "ggsans-MediumItalic": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/medium-italic/helvetica-neue-medium-italic.ttf?raw=1",
+      "ggsans-Normal": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/light/helvetica-neue-light.ttf?raw=1",
+      "ggsans-NormalItalic": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/light-italic/helvetica-neue-light-italic.ttf?raw=1",
+      "ggsans-Semibold": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/light/helvetica-neue-light.ttf?raw=1",
+      "ggsans-SemiboldItalic": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/light-italic/helvetica-neue-light-italic.ttf?raw=1",
+      "NotoSans-Bold": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/bold/helvetica-neue-bold.ttf?raw=1",
+      "NotoSans-ExtraBold": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/bold/helvetica-neue-bold.ttf?raw=1",
+      "NotoSans-Medium": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/medium/helvetica-neue-medium.ttf?raw=1",
+      "NotoSans-Normal": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/light/helvetica-neue-light.ttf?raw=1",
+      "NotoSans-NormalItalic": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/light-italic/helvetica-neue-light-italic.ttf?raw=1",
+      "NotoSans-Semibold": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/light/helvetica-neue-light.ttf?raw=1",
+      "SourceCodePro-Semibold": "https://github.com/ibm-ecm/ibm-content-navigator-samples/blob/master/ReactEmailDialogPlugin/react/src/3pt/ap-components/fonts/light/helvetica-neue-light.ttf?raw=1"
+  }
+}
